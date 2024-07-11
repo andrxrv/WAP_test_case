@@ -13,4 +13,4 @@
     pytest tests/test_case.py -W ignore
 
 - The running should look like this:
-    
+    ![](https://github.com/andrxrv/WAP_test_case/blob/main/evidence.gif)
