@@ -19,3 +19,16 @@
  - The running should look like this:
 
 ![](https://github.com/andrxrv/WAP_test_case/blob/main/evidence.gif)
+
+ - Main structure of the project is
+
+    .
+    ├── evidence.gif
+    ├── requirements.txt
+    ├── README.md
+    ├── pytest.ini
+    └── fixtures
+        └── chrome_fixture.py
+    └── tests
+        ├── __init__.py
+        └── test_case.py
